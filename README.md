@@ -29,4 +29,6 @@ This lecture will be conducted by three instructors who are involved in <a href=
 |Event|Date|In-class lecture|Materials and Assignments|
 |---------|----|-------------|------------|
 |Lecture 1|03/04|<ul><li>Course Introduction<li> Overview and DB modeling(1)|None |
+|Lecture 2|03/11|Database modeling <ul><li>ER modeling <li>relation modeling|None |
+  
 
