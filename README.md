@@ -30,7 +30,7 @@ This lecture will be conducted by three instructors who are involved in <a href=
 ## Syllabus
 |Event|Date|In-class lecture|Materials and Assignments|Instructor|
 |---------|----|----------------------|------------|---------|
-|Lecture 1|03/04|<ul><li>Course Introduction<li><a href="https://github.com/bart7449/lecture2022a/blob/main/%EA%B0%95%EC%A2%8C_01(20220301%2C05%2C%EC%84%9C%EB%8F%99%EB%AF%BC)-Window-%EC%A0%9C%EC%B6%9C%EC%9A%A9.ppt">Overview and DB modeling(1)</a>|None |Dongmin Seo|
+|Lecture 1|03/04|<ul><li>Course Introduction<li>Overview and DB modeling(1)|None |Dongmin Seo|
 |Lecture 2|03/11|Database modeling(2)|None |Dongmin Seo|
 |Lecture 3|03/18|Database modeling(3)|None |Dongmin Seo|
 |Lecture 4|03/25|Database language: SQL(1)|None |Dongmin Seo|
