@@ -28,5 +28,5 @@ This lecture will be conducted by three instructors who are involved in <a href=
 ## Syllabus
 |Event|Date|In-class lecture|Materials and Assignments|
 |---------|----|-------------|------------|
-|Lecture 1|03/04|Course Introduction<br> Overview and DB modeling(1)|None |
+|Lecture 1|03/04|<ul><li>Course Introduction<li> Overview and DB modeling(1)|None |
 
