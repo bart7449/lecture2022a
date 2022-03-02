@@ -38,7 +38,7 @@ This lecture will be conducted by three instructors who are involved in <a href=
 |Lecture 6|04/08|Database language: SQL(3)|None|Dongmin Seo|
 |Lecture 7|04/15|Storage system|None|Kyong-Ha Lee|
 |Lecture 8|04/22|Index mechanisms|None|Kyong-Ha Lee|
-|Lecture 9|04/29|Querey Processing and Optimimzation|None|Kyong-Ha Lee|
+|Lecture 9|04/29|Query processing and Optimimzation|None|Kyong-Ha Lee|
 |Lecture 10|05/06|Transactions and Consistency|Assignment 2|Kyong-Ha Lee|
 |Lecture 11|05/13|Recovery system|None|Kyong-Ha Lee|
 |Lecture 12|05/20|Big data techniques: Overview and Theories |None| Kyongseok Park|
