@@ -27,7 +27,7 @@ This lecture will be conducted by three instructors who are involved in <a href=
   - A final exam(50%)
 ## Syllabus
 |Event|Date|In-class lecture|Materials and Assignments|Instructor|
-|---------|----|----------------------|------------|
+|---------|----|----------------------|------------|---------|
 |Lecture 1|03/04|<ul><li>Course Introduction<li> Overview and DB modeling(1)|None |Dongmin Seo|
 |Lecture 2|03/11|Database modeling(2)|None |Dongmin Seo|
 |Lecture 3|03/18|Database modeling(3)|None |Dongmin Seo|
