@@ -26,9 +26,18 @@ This lecture will be conducted by three instructors who are involved in <a href=
   - 3 Homeworks (30%)
   - A final exam(50%)
 ## Syllabus
-|Event|Date|In-class lecture|Materials and Assignments|
-|---------|----|-------------|------------|
-|Lecture 1|03/04|<ul><li>Course Introduction<li> Overview and DB modeling(1)|None |
-|Lecture 2|03/11|Database modeling <ul><li>ER modeling <li>relation modeling|None |
+|Event|Date|In-class lecture|Materials and Assignments|Instructor|
+|---------|----|----------------------|------------|
+|Lecture 1|03/04|<ul><li>Course Introduction<li> Overview and DB modeling(1)|None |Dongmin Seo|
+|Lecture 2|03/11|Database modeling(2)|None |Dongmin Seo|
+|Lecture 3|03/18|Database modeling(3)|None |Dongmin Seo|
+|Lecture 4|03/25|Database language: SQL(1)|None |Dongmin Seo|
+|Lecture 5|04/01|Database language: SQL(2)|Assignment 1|Dongmin Seo|
+|Lecture 6|04/08|Database language: SQL(3)|None|Dongmin Seo|
+|Lecture 7|04/15|Storage system|None|Kyong-Ha Lee|
+|Lecture 8|04/22|Index mechanisms|None|Kyong-Ha Lee|
+|Lecture 9|04/29|Querey Processing and Optimimzation|None|Kyong-Ha Lee|
+|Lecutre 10|
+  
   
 
