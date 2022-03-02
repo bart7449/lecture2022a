@@ -28,4 +28,5 @@ This lecture will be conducted by three instructors who are involved in <a href=
 ## Syllabus
 |Event|Date|In-class lecture|Materials and Assignments|
 |---------|----|-------------|------------|
-|Lecture 1|03/05|Course Introduction<br><ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/landscape.pdf">Landscape</a><li><a href="https://arxiv.org/pdf/2001.08361.pdf">Power Law in Neural Language Model</a>|<ul><li>No assignments<li><a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf">How to Read a Paper</a><li><a href="https://bart7449.tistory.com/9">명제와 정의 용어 정리</a>|
+|Lecture 1|03/04|Course Introduction<br> Overview and DB modeling(1)|None |
+
