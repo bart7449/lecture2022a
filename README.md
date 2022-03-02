@@ -43,7 +43,7 @@ This lecture will be conducted by three instructors who are involved in <a href=
 |Lecture 11|05/13|Recovery system|None|Kyong-Ha Lee|
 |Lecture 12|05/20|Big data techniques: Overview and Theories |None| Kyongseok Park|
 |Lecture 13|05/27|Hadoop and Spark|None|Kyongseok Park|
-|Lecture 14|06/03|No SQL systems|None|Kyongseok Park|
+|Lecture 14|06/03|No SQL systems|Assignment 3|Kyongseok Park|
 |Lecture 15|06/10|Advances in Bigdata systems|None|Kyongseok Park|
 |Lecture 16|06/17| Final exam|None|Kyongseok Park|  
  
