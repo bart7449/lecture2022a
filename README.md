@@ -1,5 +1,5 @@
 # Advances in Database Systems(Spring 2022)
-Database system has become so crucial that it is difficult to think the absence of databases in application developments.
+Database systems have become so crucial that it is difficult to think the absence of databases in application developments.
 In addition, database programming has become one of the basic knowledge that program developers MUST know. 
 However, many developers simply understand and exploit the database system as a means of storing tabular data. 
 In this lecture, students will acquire knowledge about database design techniques and the internals of the database for effective uses. 
