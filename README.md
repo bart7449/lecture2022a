@@ -11,7 +11,7 @@ In addition, a big data system for efficiently storing and utilizing a massive v
 ### Instructor
 This lecture will be conducted by three instructors who are involved in <a href="https://www.ust.ac.kr/prog/major/eng/sub03_03_02/IR/view.do?majorNo=32">KISTI campus</a>. 
 <br>
-<span style="color:red">Due to the spread of the COVID 19 virus, some lectures may be held online.</span> 
+<span style="color:red">Due to the spread of COVID 19 virus, some lectures may be held online.</span> 
 - Dr. Dongmin Seo
 - Dr. Kyong-Ha Lee
 - Dr. Kyongseok Park  
@@ -39,7 +39,11 @@ This lecture will be conducted by three instructors who are involved in <a href=
 |Lecture 7|04/15|Storage system|None|Kyong-Ha Lee|
 |Lecture 8|04/22|Index mechanisms|None|Kyong-Ha Lee|
 |Lecture 9|04/29|Querey Processing and Optimimzation|None|Kyong-Ha Lee|
-|Lecutre 10|
-  
-  
-
+|Lecture 10|05/06|Transactions and Consistency|Assignment 2|Kyong-Ha Lee|
+|Lecture 11|05/13|Recovery system|None|Kyong-Ha Lee|
+|Lecture 12|05/20|Big data techniques: Overview and Theories |None| Kyongseok Park|
+|Lecture 13|05/27|Hadoop and Spark|None|Kyongseok Park|
+|Lecture 14|06/03|No SQL systems|None|Kyongseok Park|
+|Lecture 15|06/10|Advances in Bigdata systems|None|Kyongseok Park|
+|Lecture 16|06/17| Final exam|None|Kyongseok Park|  
+ 
