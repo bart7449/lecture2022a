@@ -7,14 +7,14 @@ In addition, a big data system for efficiently storing and utilizing a massive v
 
 ## Course Information
 - This course meets for in-class lecture Fri 10:00AM - 1:00PM (Seminar room No.2 at KISTI KIUM).
-- For all inquiries related to this course, please contact dmseo@kisti.re.kr, kyongha@kisti.re.kr, and gspark@kisti.re.kr
+- For all inquiries related to this course, please contact kyongha@kisti.re.kr
 ### Instructor
 This lecture will be conducted by three instructors who are involved in <a href="https://www.ust.ac.kr/prog/major/eng/sub03_03_02/IR/view.do?majorNo=32">KISTI campus</a>. 
 <br>
 <span style="color:red">Due to the spread of COVID 19 virus, some lectures may be held online.</span> 
-- Dr. Dongmin Seo
-- Dr. Kyong-Ha Lee
-- Dr. Kyongseok Park  
+- Dr. Dongmin Seo(dmseo@kisti.re.kr)
+- Dr. Kyong-Ha Lee(kyongha@kisti.re.kr)
+- Dr. Kyongseok Park(gspark@kisti.re.kr)
 ### Time and Location
 - Fri. 10:00 AM ~ 1:00PM
 ## Materials
