@@ -10,6 +10,7 @@ In addition, a big data system for efficiently storing and utilizing a massive v
 - For all inquiries related to this course, please contact dmseo@kisti.re.kr, kyongha@kisti.re.kr, gspark@kisti.re.kr
 ### Instructor
 This lecture will be conducted by three instructors who are involved in <a href="https://www.ust.ac.kr/prog/major/eng/sub03_03_02/IR/view.do?majorNo=32">KISTI campus</a>. 
+<font color="red">Due to the spread of the COVID 19 virus, some lectures may be held online.</font> 
 - Dr. Dongmin Seo
 - Dr. Kyong-Ha Lee
 - Dr. Kyongseok Park  
