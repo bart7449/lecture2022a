@@ -1,12 +1,15 @@
 # Advances in Database Systems(Spring 2022)
-Deep Learning is regarded as a panacea in the era of big data.
-In this course, you will learn the foundations of deep learning, understand how to interprete others' neural networks, and learn how to build your own neural networks.
-You will also learn about popular neural network structures including Convolutional neural networks, RNNs, LSTM, and transformers.
+Databases have become so crucial that makes it difficult to think the absence of databases in application developments.
+In addition, Database programming has become one of the basic knowledge that program developers should know. 
+However, many developers simply understand and use the database as a means of storing data. 
+In this lecture, students will acquire knowledge about database design techniques and the internals of the database for effective uses. 
+In addition, a big data system for efficiently storing and utilizing a massive volume of data that is difficult to process within a single sited DBMS and how to use it will be studied. 
 
 ## Course Information
 - This course meets for in-class lecture Fri 10:00AM - 1:00PM (Seminar room No.2 at KISTI KIUM).
 - For all inquiries related to this course, please contact dmseo@kisti.re.kr, kyongha@kisti.re.kr, gspark@kisti.re.kr
 ### Instructor
+This lecture will be conducted by three instructors who are involved in <a href="https://www.ust.ac.kr/prog/major/eng/sub03_03_02/IR/view.do?majorNo=32">KISTI</a>. 
 - Dr. Dongmin Seo
 - Dr. Kyong-Ha Lee
 - Dr. Kyongseok Park  
