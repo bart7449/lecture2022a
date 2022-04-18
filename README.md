@@ -37,7 +37,7 @@ This lecture will be conducted by three instructors who are involved in <a href=
 |Lecture 5|04/01|Database language: SQL(2)|Assignment 1|Dongmin Seo|
 |Lecture 6|04/08|Database language: SQL(3)|None|Dongmin Seo|
 |Lecture 7|04/15|<a href="https://github.com/bart7449/lecture2022a/blob/main/lecture7.pdf">Storage systems & Data Storage Structure</a>(<a href="https://us06web.zoom.us/j/85048290845?pwd=TzBLelRESGF4Q1liOU1QVlgvZzhDUT09">Zoom</a>)|None|Kyong-Ha Lee|
-|Lecture 8|04/22|Index mechanisms|None|Kyong-Ha Lee|
+|Lecture 8|04/22|<a href="<a href="https://github.com/bart7449/lecture2022a/blob/main/lecture7.pdf">Index mechanisms</a>(<a href="https://us06web.zoom.us/j/85048290845?pwd=TzBLelRESGF4Q1liOU1QVlgvZzhDUT09">Zoom</a>)|None|Kyong-Ha Lee|
 |Lecture 9|04/29|Query processing and Optimimzation|None|Kyong-Ha Lee|
 |Lecture 10|05/06|Transactions and Consistency|Assignment 2|Kyong-Ha Lee|
 |Lecture 11|05/13|Recovery system|None|Kyong-Ha Lee|
