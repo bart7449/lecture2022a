@@ -39,8 +39,8 @@ This lecture will be conducted by three instructors who are involved in <a href=
 |Lecture 7|04/15|<a href="https://github.com/bart7449/lecture2022a/blob/main/lecture7.pdf">Storage systems & Data Storage Structure</a>(<a href="https://us06web.zoom.us/j/85048290845?pwd=TzBLelRESGF4Q1liOU1QVlgvZzhDUT09">Zoom</a>)|None|Kyong-Ha Lee|
 |Lecture 8|04/22|<a href="https://github.com/bart7449/lecture2022a/blob/main/lecture8.pdf">Index mechanisms</a> (<a href="https://us06web.zoom.us/j/85048290845?pwd=TzBLelRESGF4Q1liOU1QVlgvZzhDUT09">Zoom</a>)|None|Kyong-Ha Lee|
 |Lecture 9|04/29|<a href="https://github.com/bart7449/lecture2022a/blob/main/lecture9.pdf">Query processing and Optimimzation</a> (<a href="https://us06web.zoom.us/j/85048290845?pwd=TzBLelRESGF4Q1liOU1QVlgvZzhDUT09">Zoom</a>)|None|Kyong-Ha Lee|
-|Lecture 10|05/06|Transactions and Consistency|Assignment 2|Kyong-Ha Lee|
-|Lecture 11|05/13|Recovery system|None|Kyong-Ha Lee|
+|Lecture 10|05/06|<a href="https://github.com/bart7449/lecture2022a/blob/main/lecture10.pdf">Transactions and Consistency</a> (<a href="https://us06web.zoom.us/j/85048290845?pwd=TzBLelRESGF4Q1liOU1QVlgvZzhDUT09">Zoom</a>|None|Kyong-Ha Lee|
+|Lecture 11|05/13|Recovery system|Assignment No. 2|Kyong-Ha Lee|
 |Lecture 12|05/20|Big data techniques: Overview and Theories |None| Kyongseok Park|
 |Lecture 13|05/27|Hadoop and Spark|None|Kyongseok Park|
 |Lecture 14|06/03|No SQL systems|Assignment 3|Kyongseok Park|
